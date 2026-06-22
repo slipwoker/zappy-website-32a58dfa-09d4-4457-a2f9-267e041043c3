@@ -1,0 +1,105 @@
+# Voilà — Generative Engine Optimization Map
+
+> Voilà is a luxury modest fashion brand specializing in elegant skirts designed for Shabbat and Jewish holidays. The brand caters to young, religious, and modest women who seek a refined and sophisticated aesthetic without compromising on modesty values. The brand identity blends timeless elegance with a warm, earthy palette of cream, beige, brown, and black, evoking a sense of understated luxury and spiritual grace.
+
+---
+
+## Pages
+
+### בית
+https://voil-32a58dfa.zappy5.app
+חצאיות יוקרתיות בעיצוב מוקפד לאישה הצנועה והמודרנית. גזרות מחמיאות, בדים איכותיים ופלטת צבעים טבעית היוצרים מראה אלגנטי ומלא חן. הצטרפי לעולם של יופי מאופק — כנסי עכשיו.
+
+### אומנות והתאמה
+https://voil-32a58dfa.zappy5.app/craftsmanship-fit
+איך נוצרת חצאית שחוגגת את הגזרה שלך? גלי את מלאכת האומנות מאחורי כל תפר — מבדים יוקרתיים ועד התאמה אישית שמחבקת את גופך באלגנטיות. לכי על מראה בלתי נשכח — בואי לגלות עוד.
+
+### אירועים
+https://voil-32a58dfa.zappy5.app/occasions
+משבת ועד חג, כל רגע מיוחד ראוי להופעה מושלמת. חצאיות צנועות שנתפרו להאיר את נוכחותך באור רך ומלא חן. הפכי כל אירוע לבלתי נשכח — הציצי בקולקציה עכשיו.
+
+### צור קשר
+https://voil-32a58dfa.zappy5.app/contact
+יש לך שאלה על מידה, בד או התאמה מיוחדת? אנחנו כאן כדי להקשיב ולעזור לך למצוא את החצאית שתגרום לך להרגיש מושלמת. אל תישארי עם התלבטות — שלחי הודעה עוד היום.
+
+### Products
+https://voil-32a58dfa.zappy5.app/products
+המוצרים שלנו - Voilà
+
+### Cart
+https://voil-32a58dfa.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://voil-32a58dfa.zappy5.app/checkout
+תשלום
+
+### Login
+https://voil-32a58dfa.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://voil-32a58dfa.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://voil-32a58dfa.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://voil-32a58dfa.zappy5.app/product/:slug
+פרטי המוצר - Voilà
+
+### Category
+https://voil-32a58dfa.zappy5.app/category/:slug
+מוצרים - Voilà
+
+### תודה שפנית אלינו | Voilà
+https://voil-32a58dfa.zappy5.app/thank-you
+Voilà - תודה שפנית אלינו | Voilà
+
+## Legal & Policy
+
+### Privacy Policy
+https://voil-32a58dfa.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://voil-32a58dfa.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://voil-32a58dfa.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Voilà
+Voilà is a luxury modest fashion brand specializing in elegant skirts designed for Shabbat and Jewish holidays. The brand caters to young, religious, and modest women who seek a refined and sophisticated aesthetic without compromising on modesty values. The brand identity blends timeless elegance with a warm, earthy palette of cream, beige, brown, and black, evoking a sense of understated luxury and spiritual grace.
+
+## Target Audience
+- נשים דתיות צנועות וצעירות
+- נשים דתיות צעירות
+- אמהות לבנות בגיל העשרה
+- נשים מסורתיות
+
+## Industry
+Fashion & Modest Clothing
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://voil-32a58dfa.zappy5.app/sitemap.xml
+- Robots: https://voil-32a58dfa.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://voil-32a58dfa.zappy5.app/llms-full.txt
+- Products (JSON): https://voil-32a58dfa.zappy5.app/products.json
+- Products (Google Merchant RSS): https://voil-32a58dfa.zappy5.app/product-feed.xml
